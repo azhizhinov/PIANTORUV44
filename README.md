@@ -1,6 +1,6 @@
-## PiantorUV 44
-![PiantorUV 44](/Pictures/20240806.PIANTORUV44.00.png)
-The PiantorUV 44 keyboard is a 44 key diodeless split keyboard with support for hotswap sockets, designed with simplicity in mind. PiantorUV44 is a Piantor/Cantor fork with Raspberry Pi Pico, hybrid hotswap socket and soldered-in switches support and flippable PCB.
+## Piantor UV 44
+![Piantor UV 44](/Pictures/20240806.PIANTORUV44.00.png)
+The Piantor UV 44 keyboard is a 44 key diodeless split keyboard with support for hotswap sockets, designed with simplicity in mind. Piantor UV 44 is a Piantor/Cantor fork with Raspberry Pi Pico, hybrid hotswap socket and soldered-in switches support and flippable PCB.
 This is a WIP, you can follow the [Cantor's build guide](https://github.com/diepala/cantor/blob/main/doc/build_guide.md), as it is quite similar!
 
 ## Parts
