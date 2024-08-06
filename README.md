@@ -13,7 +13,7 @@ As for the parts list, you will need:
 - 2x RPi Pico and clones (RP2040). Warning. I don't have possibility to test ALL clones, so, please, have a look at the original Piantor's guide about the RPi Pico's clones before any purchase.
 
 ## Gerbers
-You can find the Gerber files needed to order the PCB on the `Gerbers` directory. Look for the .zip of whatever version you would like!
+You can find the Gerber files needed to order the PCB on the ![`Gerbers`](./Gerbers) directory. Look for the .zip of whatever version you would like!
 
 ## Attention
 I'm a hobbyist/amateur at best. So there may be things that aren't optimized. So if you decide to use this, then please be advised that I'm not providing any sort of liability and you should exercise some caution. Use these file for your own risk. Thanks Sebastian Stumpf for this text.
