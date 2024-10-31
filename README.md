@@ -4,7 +4,7 @@ The Piantor UV 44 keyboard is a 44 key diodeless split keyboard with support for
 This is a WIP, you can follow the [Cantor's build guide](https://github.com/diepala/cantor/blob/main/doc/build_guide.md), as it is quite similar!
 
 ## Thanks
-Big thanks to [@Excellenze11](https://github.com/@Excellenze11) for ideas, cooperation and tests.
+Big thanks to [@Excellenze11](https://github.com/Excellenze11) for ideas, cooperation and tests.
 
 ## Parts
 As for the parts list, you will need:
